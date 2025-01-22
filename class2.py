@@ -1,6 +1,9 @@
 '''
 Arithmetic Operator (Mathematical) (Modulus operator)
 Relational Operator (comparison operator == >< =! etc ) Result is either true or false (Boolean)
+Logical Operator (and or not) (for combination)
+Assignment Operator (= += -=) (a+=b == a=a+b)
+Comparison operator (if else)
 '''
 #Modulus function and negative integar logic  6*3 = 18 and -16 so 18-16=2
 a = -16 % 6  
